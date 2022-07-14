@@ -120,7 +120,7 @@ const Video = () => {
             <iframe
               width="100%"
               height="430"
-              src="https://www.youtube.com/embed/k3Vfj-e1Ma4"
+              src="https://www.youtube.com/watch?v=PPruFbbAkzU"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
